@@ -15,6 +15,9 @@ Connect with me:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/Pappukhan.0101/)
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/iampappokhan/)
 [![image](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iampappokhan/)
+[![image](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mdshahidulkhanpappo)
+
+
 </div>
 
 ---
@@ -28,7 +31,5 @@ Languages and Tools:
 
 <div align="center">
 <h3 align="center">Just an illusion—For the eyes!</h3>
-
   <br>
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>

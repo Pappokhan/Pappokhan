@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_23-2150392730.jpg?w=1380&t=st=1690210768~exp=1690211368~hmac=fdf92d982540a2b0b324679eb95ec931fd0af8e538017869101b103c87d7f850"></p>
+<p align="center"><img src="https://img.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_23-2150395167.jpg?w=1380&t=st=1690385632~exp=1690386232~hmac=57c1ce781ea356f919181ab253eb4120bb8cce57f90f7e6e5b5d75c3dfb7d808"></p>
 
 <h1 align="center">Hello!, I'm <a href="https://github.com/Pappokhan">Pappo Khan<a></h1>
   

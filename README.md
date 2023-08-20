@@ -5,7 +5,7 @@
 <font color="#9900FF">About Me:</font>
 
 
-I am a student who studied B.Sc. in Computer Science Engineering at American International University-Bangladesh. Passionate about machine learning and Artificial intelligence. I am a tech enthusiast, and I can come up with solutions to any kind of problem myself. #inshallah
+I am a student who studied B.Sc. in Computer Science Engineering at American International University-Bangladesh. Passionate about Machine learning, Neural Network and Artificial intelligence. I am a tech enthusiast, and I can come up with solutions to any kind of problem myself. #inshallah
 
 ---
 

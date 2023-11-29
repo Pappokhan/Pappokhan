@@ -1,11 +1,11 @@
 <p align="center"><img src="https://img.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_23-2150395167.jpg?w=1380&t=st=1690385632~exp=1690386232~hmac=57c1ce781ea356f919181ab253eb4120bb8cce57f90f7e6e5b5d75c3dfb7d808"></p>
 
-<h1 align="center">Hello!, I'm <a href="https://github.com/Pappokhan">Pappo Khan<a></h1>
+<h1 align="center">Hello!, I'm <a href="https://github.com/Pappokhan">MD. SHAHIDUL KHAN PAPPO<a></h1>
   
 <font color="#9900FF">About Me:</font>
 
 
-I am a student who studied B.Sc. in Computer Science Engineering at American International University-Bangladesh. Passionate about Machine learning, Neural Network and Artificial intelligence. I am a tech enthusiast, and I can come up with solutions to any kind of problem myself. #inshallah
+I am a student currently studying B.Sc. in the Computer Science Engineering Department at American International University-Bangladesh. Passionate about AI, ML, NLP, NNs, and advancing technology. I am a tech enthusiast, and I can come up with solutions to any kind of problem myself. I am a punctual person in my life.
 
 ---
 

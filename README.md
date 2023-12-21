@@ -32,5 +32,10 @@ Languages & Tools:
 <div align="center">
 <h3 align="center">Just an illusion—For the eyes!</h3>
   <br>
+  <img src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif">
+</div>
+
+<div align="center">
   <img src="https://cdn.dribbble.com/users/298384/screenshots/3897360/lisa-dribbble.gif" alt="Girl in a jacket" width="80" height="60">
 </div>
+

@@ -43,9 +43,6 @@ Languages & Tools:
 </div>
 
 
-<div align="center">
-  <img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=Pappokhan&show_icons=true&bg_color=00000000"/>
-</div>
 
 ---
 

@@ -4,7 +4,7 @@
   
 <font color="#9900FF">About Me:</font>
 
-I am a student currently studying B.Sc. in the Computer Science Engineering Department at American International University-Bangladesh. Passionate about AI, ML, NLP, NNs, and advancing technology. I am a tech enthusiast, and I can come up with solutions to any kind of problem myself. I am a punctual person in my life.
+I am Md. Shahidul Khan Pappo, currently pursuing a B.Sc. in Computer Science Engineering at American International University-Bangladesh. My focus lies within the dynamic domains of Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), and Neural Networks (NNs). These disciplines are at the forefront of technological innovation, and I am eager to contribute to their evolution. As a dedicated tech enthusiast, I thrive on problem-solving and derive satisfaction from devising creative solutions. Moreover, I prioritize punctuality and effective time management in all aspects of my life.
 
 ---
 

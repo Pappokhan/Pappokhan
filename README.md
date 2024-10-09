@@ -2,13 +2,13 @@
 
 <h1 align="center">Hello!, I'm <a href="https://github.com/Pappokhan">MD. SHAHIDUL KHAN PAPPO<a></h1>
   
-<font color="#9900FF">About Me:</font>
+<font color="#9900FF">👨‍💻About Me:</font>
 
 I am Md. Shahidul Khan Pappo, currently pursuing a B.Sc. in Computer Science Engineering at American International University-Bangladesh. My focus lies within the dynamic domains of Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), and Neural Networks (NNs). These disciplines are at the forefront of technological innovation, and I am eager to contribute to their evolution. As a dedicated tech enthusiast, I thrive on problem-solving and derive satisfaction from devising creative solutions. Moreover, I prioritize punctuality and effective time management in all aspects of my life.
 
 ---
 
-Connect me:
+📫Connect me:
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/Pappukhan.0101/)
@@ -21,7 +21,7 @@ Connect me:
 
 ---
 
-Languages & Tools:
+🛠️Languages & Tools:
 
 <div align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -44,6 +44,21 @@ Languages & Tools:
   </a>
 </div>
 
+
+### 📈 GitHub Stats:
+
+<div align="center">
+  
+  <!-- GitHub Stats Card with Token -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pappokhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FFD700&text_color=ffffff&cache_seconds=1800&token=YOUR_GITHUB_TOKEN" alt="Pappo's GitHub stats"/>
+  
+  <!-- Most Used Languages Card with Token -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pappokhan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=ffffff&cache_seconds=1800&token=YOUR_GITHUB_TOKEN" alt="Pappo's Top Languages"/>
+  
+  <!-- GitHub Streak Stats Card -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pappokhan&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FF69B4&fire=FF69B4&currStreakLabel=FFD700&sideLabels=FFD700&dates=ffffff" alt="Pappo's GitHub Streak"/>
+  
+</div>
 
 
 

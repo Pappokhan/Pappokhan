@@ -12,7 +12,7 @@ I am Md. Shahidul Khan Pappo, currently pursuing a B.Sc. in Computer Science Eng
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/Pappukhan.0101/)
-[![image]((https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/iampappokhan/)
+[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/iampappokhan/)
 [![image](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iampappokhan/)
 [![image](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mdshahidulkhanpappo)
 

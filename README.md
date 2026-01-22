@@ -4,7 +4,7 @@
   
 ### <font color="#9900FF">👨‍💻About Me:</font>
 
-I am Md. Shahidul Khan Pappo, currently pursuing a B.Sc. in Computer Science Engineering at American International University-Bangladesh. My focus lies within the dynamic domains of Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), and Neural Networks (NNs). These disciplines are at the forefront of technological innovation, and I am eager to contribute to their evolution. As a dedicated tech enthusiast, I thrive on problem-solving and derive satisfaction from devising creative solutions. Moreover, I prioritize punctuality and effective time management in all aspects of my life.
+I am Md. Shahidul Khan Pappo, a graduate in Computer Science and Engineering from American International University–Bangladesh. Driven by the limitless possibilities of Artificial Intelligence, Machine Learning, Deep Learning, Biomedical Imaging & Biostatistics, and Computer Vision, I am deeply passionate about how these technologies are reshaping the world and aspire to be at the forefront of this transformation.
 
 ---
 
@@ -15,6 +15,10 @@ I am Md. Shahidul Khan Pappo, currently pursuing a B.Sc. in Computer Science Eng
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Pappukhan.0101/)
 [![image](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iampappokhan/)
 [![image](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mdshahidulkhanpappo)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Pappo)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_DzcWLcAAAAJ)
+
+
 
 
 </div>
@@ -57,6 +61,9 @@ I am Md. Shahidul Khan Pappo, currently pursuing a B.Sc. in Computer Science Eng
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
   </a>
+  <a href="https://mlflow.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/mlflow/mlflow/refs/heads/master/assets/logo.svg" alt="MLflow" width="100" height="100" style="vertical-align: middle;" />
+  </a>
 </div>
 
 
@@ -68,4 +75,5 @@ I am Md. Shahidul Khan Pappo, currently pursuing a B.Sc. in Computer Science Eng
   <br>
   <img src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif">
 </div>
+
 

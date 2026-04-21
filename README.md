@@ -4,7 +4,7 @@
   
 ### <font color="#9900FF">👨‍💻About Me:</font>
 
-I am Md. Shahidul Khan Pappo, a graduate in Computer Science and Engineering from American International University–Bangladesh. Driven by the limitless possibilities of Artificial Intelligence, Machine Learning, Deep Learning, Biomedical Imaging & Biostatistics, and Computer Vision, I am deeply passionate about how these technologies are reshaping the world and aspire to be at the forefront of this transformation.
+I am Md. Shahidul Khan Pappo, a graduate in Computer Science and Engineering from American International University–Bangladesh. Driven by the limitless possibilities of Applied AI, Machine Learning, Deep Learning, Biomedical AI, and Computer Vision, I am deeply passionate about how these technologies are reshaping the world and aspire to be at the forefront of this transformation.
 
 ---
 

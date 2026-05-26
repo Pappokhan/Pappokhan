@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.pixabay.com/animation/2024/03/26/09/06/09-06-58-457_512.gif"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FUTURE%20SCIENTIST%20&fontSize=0&section=header"></p>
 
 <h1 align="center">Hello!, I'm <a href="https://github.com/Pappokhan">MD. SHAHIDUL KHAN PAPPO<a></h1>
   

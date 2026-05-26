@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_23-2150395167.jpg?w=1380&t=st=1690385632~exp=1690386232~hmac=57c1ce781ea356f919181ab253eb4120bb8cce57f90f7e6e5b5d75c3dfb7d808"></p>
+<p align="center"><img src="https://cdn.pixabay.com/animation/2024/03/26/09/06/09-06-58-457_512.gif"></p>
 
 <h1 align="center">Hello!, I'm <a href="https://github.com/Pappokhan">MD. SHAHIDUL KHAN PAPPO<a></h1>
   
@@ -97,10 +97,16 @@ I am Md. Shahidul Khan Pappo, a graduate in Computer Science and Engineering fro
 
 ---
 
+  <br>
+  <img src="https://camo.githubusercontent.com/27f453f604bcf36e91321db84ca07a3cabdfddf6e9aad59ed796d4a7790c4349/68747470733a2f2f676174746f6e7765622e756b792e6564752f666163756c74792f6c69756d2f6d6c2f705f747275636b5f66726f672e676966">
+</div>
+
+  <br>
+  <img src="https://camo.githubusercontent.com/b09e836f01bb76153e2b25e034e25cb82200a4c313c5ab3a537e8e8a9832f521/68747470733a2f2f676174746f6e7765622e756b792e6564752f666163756c74792f6c69756d2f6d6c2f705f686f7273655f646565722e676966">
+</div>
+
 <div align="center">
 <h3 align="center">Just an illusion—For the eyes!</h3>
   <br>
   <img src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif">
 </div>
-
-

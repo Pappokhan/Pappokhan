@@ -1,6 +1,10 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FUTURE%20SCIENTIST%20&fontSize=0&section=header"></p>
 
-<h1 align="center">Hello!, I'm <a href="https://github.com/Pappokhan">MD. SHAHIDUL KHAN PAPPO<a></h1>
+<h1 align="center">
+  <a href="https://github.com/Pappokhan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=Hello!+I'm+MD.+SHAHIDUL+KHAN+PAPPO" alt="Typing SVG" />
+  </a>
+</h1>
   
 ### <font color="#9900FF">👨‍💻About Me:</font>
 

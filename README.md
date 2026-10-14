@@ -9,12 +9,13 @@
 ### <font color="#9900FF">👨‍💻About Me:</font>
 
 <p align="center">
-  I am <b>Md. Shahidul Khan Pappo</b>, a graduate in Computer Science and Engineering from 
-  <b>American International University–Bangladesh</b>. Driven by the limitless possibilities of 
-  <b>Applied AI, Machine Learning, Deep Learning, Biomedical AI, and Computer Vision</b>, 
-  I am deeply passionate about how these technologies are reshaping the world and aspire 
-  to be at the forefront of this transformation.
+  I am <b>Md. Shahidul Khan Pappo</b>, a Computer Science and Engineering graduate from
+  <b>American International University–Bangladesh</b>. My research interests include
+  <b>Machine Learning, Deep Learning, Healthcare AI, Computer Vision, and Trustworthy AI</b>,
+  with a focus on developing reliable, explainable, and impactful AI solutions
+  for real-world challenges.
 </p>
+
 
 ---
 
